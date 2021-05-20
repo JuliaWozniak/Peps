@@ -1,0 +1,13 @@
+1.Dependencies:
+
+dash
+pip3 install dash
+
+2. run the progran
+python3 main.py
+
+3. copy the address that appears in terminal and paste into web browser
+
+4. choose risk 'high'
+
+5. wait a bit
